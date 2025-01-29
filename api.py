@@ -7,7 +7,7 @@ app = FastAPI()
 
 # Configuration de la base de donn\u00e9es MySQL
 DB_CONFIG = {
-    "host": "localhost",  # Exemple : serveur local
+    "host": "35.182.197.81",  # Exemple : serveur local
     "port": "3306",       # Port par d\u00e9faut de MySQL
     "user": "admin",       # Exemple : utilisateur par d\u00e9faut
     "password": "azerty1234",       # Remplacez par votre mot de passe
